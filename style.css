@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+}
+
+p1{
+  color: 	#052517 ;
+}
+
+#portrait{
+  max-width: 100%;
+  height: auto;
+}
+
+h3{
+  font-size:20px;
+}
+
+ul {
+  max-width: 550px;
+  margin:  auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 550px;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
